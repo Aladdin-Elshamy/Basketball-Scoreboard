@@ -1,21 +1,27 @@
-# Basketball-Scoreboard
+# Basketball Scoreboard🏀
 
-Quick start:
+Welcome to the Basketball Scoreboard! This website is designed to keep track of basketball scores and provide a user-friendly interface for scorekeeping during basketball games.
 
-```
-$ npm install
-$ npm start
-````
+## Features⭐
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+- **Real-time Scorekeeping**: The website allows you to update and display the scores of both teams in real-time. You can easily add points for each team.
+  
+- **Responsive Design**: The website is designed to be responsive and works well on different devices, including desktops, laptops, tablets, and mobile phones.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Usage⛹️
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+To use the Basketball Scoreboard website, follow these steps:
 
-Happy Coding!
+1. Open the website using the following URL: [Basketball Scoreboard](https://aladdin-elshamy.github.io/Basketball-Scoreboard/)
+
+2. Use the buttons provided to increment or decrement the score for each team as the game progresses.
+
+## Technologies Used👨‍💻
+
+The Basketball Scoreboard website is built using the following technologies:
+
+- HTML: Provides the structure and layout of the webpage.
+
+- CSS: Handles the visual styling and responsiveness of the website.
+
+- JavaScript: Implements the functionality and interactivity of the scoreboard.
